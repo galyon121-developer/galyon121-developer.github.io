@@ -1,0 +1,3 @@
+# app-ads.txt — authorized sellers for my apps
+
+google.com, pub-7650736180602884, DIRECT, f08c47fec0942fa0
